@@ -1,6 +1,8 @@
 # Database-Application-Project
-•	Collecting Data from online bookstore to design the database and data modelling
-•	Currently focusing on the application programming interface for database by using Java.
+•	Collecting Data from online bookstore to design the database and data modelling. 
+  
+•	Currently focusing on the application programming interface for database by using Java.  
+
 •	Here's the ER diagram: 
 
 <p align="center">
