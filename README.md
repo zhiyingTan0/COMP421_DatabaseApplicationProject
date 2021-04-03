@@ -1,7 +1,9 @@
 # Database-Application-Project
 •	Collecting Data from online bookstore to design the database and data modelling.  
+
 •	Create the database with SQL query (CREATE, INSERT) 
-• Apply JDBC to access database.
+
+• Apply JDBC to build the interface to access database.
 
 Here's the ER diagram: 
 
